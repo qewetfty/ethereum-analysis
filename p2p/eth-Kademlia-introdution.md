@@ -12,7 +12,7 @@ Kademlia（简称Kad）是一种分布式哈希表技术，用于建立p2p网络
 
 
 参考资料：  
-[references/Kademlia协议原理简介.pdf](/references/Kademlia协议原理简介.pdf)  
+[references/Kademlia协议原理简介.pdf](/go-ethereum-code-analysis/references/Kademlia协议原理简介.pdf)  
 [https://www.jianshu.com/p/f2c31e632f1d](https://www.jianshu.com/p/f2c31e632f1d)
 
 #以太坊中的实现概述
